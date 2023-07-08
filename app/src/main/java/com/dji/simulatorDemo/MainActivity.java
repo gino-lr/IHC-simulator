@@ -172,7 +172,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
             @Override
             public void onClick(View v) {
                 // Código a ejecutar cuando se hace clic en el botón
-                mitexto.setText("Start .... Landing" );
+                mitexto.setText("Start .... Landing" + pX_ + pY_ );
                 if (mFlightController != null){
 
                     mFlightController.startLanding(
@@ -195,10 +195,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
             mitexto.setText("iniciado modo neutro" + it);
         } if (it.equals("1")) {
             mitexto.setText("iniciado modo neutro" + it);
-           // mboton.performClick();
+            mboton.performClick();
         }
         if (it.equals("2")) {
-            //mbotonland.performClick();
+            mbotonland.performClick();
         }
         else{
             mitexto.setText("holamundo" + it);
