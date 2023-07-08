@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301435920937",
+    "firebase_url": "https://dji-simulator-a1c9c-default-rtdb.firebaseio.com",
+    "project_id": "dji-simulator-a1c9c",
+    "storage_bucket": "dji-simulator-a1c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301435920937:android:e354bbbd46e4077ea4b238",
+        "android_client_info": {
+          "package_name": "com.dji.simulatorDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301435920937-pn6lqhbupn0krvul9cabntfmb99rlcq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Pt5CUEVSCVpwoMMgHCF8lg355AmwXIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301435920937-pn6lqhbupn0krvul9cabntfmb99rlcq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
